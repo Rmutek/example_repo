@@ -1,0 +1,1 @@
+puts "Day 2 is Awesome"
